@@ -1,6 +1,6 @@
 #  Hello there! 👋 I'm Kiran Sundal
 
-I'm a Full-Stack Developer from Walsall, West Midlands. My expertise lies in the PERN stack, where I excel in crafting dynamic web applications. . Alongside this, I have diligently sharpened my prowess in PHP, MySQL, and JQuery, infusing my development toolkit with remarkable versatility. Embracing the spirit of continuous growth, I am currently delving into the fascinating world of TypeScript, expanding my horizons even further.kkk
+I'm a Full-Stack Developer from Walsall, West Midlands. My expertise lies in the PERN stack, where I excel in crafting dynamic web applications. . Alongside this, I have diligently sharpened my prowess in PHP, MySQL, and JQuery, infusing my development toolkit with remarkable versatility. Embracing the spirit of continuous growth, I am currently delving into the fascinating world of TypeScript, expanding my horizons even further.
 
 I am open to  Frontend and Full-Stack opportunities where I can put my talents to good use and contribute to innovative projects.
 
